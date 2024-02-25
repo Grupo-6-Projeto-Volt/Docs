@@ -10,6 +10,6 @@
 <br>
 
 - [Commits]
-- [Spring Boot](BackEnd.md)
-- [Html, Css e Js](FrontEnd/README.md)
-- [Banco de Dados](DataBase/README.md)
+- [Spring Boot](https://github.com/Grupo-6-Projeto-Volt/BackEnd/blob/main/README.md)
+- [Html, Css e Js](https://github.com/Grupo-6-Projeto-Volt/FrontEnd/blob/main/README.md)
+- [Banco de Dados](https://github.com/Grupo-6-Projeto-Volt/DataBase/blob/main/README.md)
