@@ -9,7 +9,7 @@
 <p> Segue abaixo a lista de arquivos contendo os padrões seguidos por cada seção.</p>
 <br>
 
-- [Commits]
+- [Documentação](https://github.com/Grupo-6-Projeto-Volt/Docs_Projeto-Volt/blob/main/DOCUMENTACAO.md)
 - [Spring Boot](https://github.com/Grupo-6-Projeto-Volt/BackEnd/blob/main/README.md)
 - [Html, Css e Js](https://github.com/Grupo-6-Projeto-Volt/FrontEnd/blob/main/README.md)
 - [Banco de Dados](https://github.com/Grupo-6-Projeto-Volt/DataBase/blob/main/README.md)
